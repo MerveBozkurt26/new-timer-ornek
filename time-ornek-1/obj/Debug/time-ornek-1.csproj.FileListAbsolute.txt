@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\bin\Debug\time-ornek-1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\bin\Debug\time-ornek-1.exe
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\bin\Debug\time-ornek-1.pdb
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time_ornek_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time_ornek_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.exe
+C:\Users\User\Desktop\KORUMASIZ\Merve Bozkurt 230\time-ornek-1\time-ornek-1\obj\Debug\time-ornek-1.pdb
